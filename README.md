@@ -1,7 +1,7 @@
 # Person Management System (SENG384 HW)
 
 ## Project Description
-This is a full-stack web application developed for the SENG384 course[cite: 1, 3]. It allows users to manage person records through a web interface, with data persisted in a PostgreSQL database[cite: 12, 15]. The project is fully containerized using Docker and Docker Compose.
+This is a full-stack web application developed for the SENG384 course. It allows users to manage person records through a web interface, with data persisted in a PostgreSQL database. The project is fully containerized using Docker and Docker Compose.
 
 ---
 
